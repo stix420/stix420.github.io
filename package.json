@@ -1,0 +1,21 @@
+{
+  "name": "style-by-bec",
+  "version": "1.0.0",
+  "description": "Beauty consultant website for Style By Bec",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.4",
+    "vite": "^4.3.4",
+    "vite-plugin-solid": "^2.7.0"
+  },
+  "dependencies": {
+    "solid-js": "^1.7.2"
+  }
+}
